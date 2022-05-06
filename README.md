@@ -5,8 +5,8 @@ The purpose for this project was to delete math and reading scores of Thomas Hig
 
 
 ## Resources
-- Data Source: election_results.csv
-- Software: Python 3.7, Visual Studio Code
+- Data Source: schools.csv, students_complete.csv
+- Software: Python 3.7 (Pandas), Jupyter
 
 ## Results 
 Using bulleted lists and images of DataFrames as support, address the following questions.
