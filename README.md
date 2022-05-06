@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Project Overview
-Overview of the school district analysis: Explain the purpose of this analysis.
+The purpose for this project was to delete math and reading scores of Thomas High School ninth graders as they appear to have been changed in the original data source. The code, [link], shows steps on how to determine and delete the altered math and reading grades of the Thomas High School ninth graders. The analysis looks at the student performance by school, and it looks at the difference in performance with the exclusion of the grades from the Thomas High School 9th graders.
 
 
 ## Resources
