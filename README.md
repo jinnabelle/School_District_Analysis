@@ -19,7 +19,7 @@ There difference between the summaries is minimal. This is likely due to the num
 ![Updated District Summary](Resources/District Summary _updated.png)<br>
 
 * How is the school summary affected?
-The school summary was affected, again, only by the percent of students passing the individual subjects and both subjects, as well as the average math and reading scores.The average math score for Thomas High School went down by the hundredth decimal point and the average reading score went up by the hundredth decimal point. 
+The school summary was affected, again, only by the percent of students passing the individual subjects and both subjects, as well as the average math and reading scores.The average math score for Thomas High School went down by the hundredth decimal point and the average reading score went up by the hundredth decimal point. <br>
 **Original School Summary**<br>
 ![Original School Summary](Resources/School Summary _original.png)<br>
 **Updated School Summary**<br>
@@ -29,7 +29,7 @@ The school summary was affected, again, only by the percent of students passing 
 The differences are so minimal that in terms of performance relative to other schools, Thomas High School did not change its ranking based on overall % of students that passed. The images from the question below shows the side by side view of the top 5 schools from the original pull and the updated pull.
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-The school summary was also not affected much. Thomas High School was still at the top 5 performing schools across the schools involved with minimal changes to its passing percent and average grades. 
+The school summary was also not affected much. Thomas High School was still at the top 5 performing schools across the schools involved with minimal changes to its passing percent and average grades. <br>
 **Original School Summary**<br>
 ![Original School Summary](Resources/Top Schools _original.png)<br>
 **Updated School Summary**<br>
@@ -37,10 +37,18 @@ The school summary was also not affected much. Thomas High School was still at t
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
+  * The ninth grade scores are nullified given that the code takes out the reading and math scores of the Thomas High School ninth graders.
+  **Updated Reading Scores by Grade**<br>
+   ![Updated Reading Scores](Resources/Reading Scores by Grade.png)<br>
+  **Updated Math Scores by Grade**<br>
+   ![Updated Math Scores](Resources/Math Scores by Grade _updated.png)<br>
   
   * Scores by school spending
+  
   * Scores by school size
+  
   * Scores by school type
+  
 
 
 ## Summary
