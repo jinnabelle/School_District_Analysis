@@ -14,7 +14,7 @@ The analysis takes out the Thomas High School 9th graders from the total scores 
 * How is the district summary affected?
 There difference between the summaries is minimal. This is likely due to the number of student scores taken out of the total population of students (461 out of the almost 40,000 students in the dataset).  The metrics affected by the change are percent of students passing individual subjects (math and reading) and passing overall. <br>
 **Original District Summary**<br>
-![Original District Summary](Resources/District Summary _original.png)<br>
+![Original District Summary](resources/District Summary _original.png)<br>
 **Updated District Summary**<br>
 ![Updated District Summary](Resources/District Summary _updated.png)<br>
 
@@ -39,17 +39,37 @@ The school summary was also not affected much. Thomas High School was still at t
   * Math and reading scores by grade
   * The ninth grade scores are nullified given that the code takes out the reading and math scores of the Thomas High School ninth graders.
   **Updated Reading Scores by Grade**<br>
-   ![Updated Reading Scores](Resources/Reading Scores by Grade.png)<br>
+   ![Updated Reading Scores](resources/Reading Scores by Grade.png)<br>
   **Updated Math Scores by Grade**<br>
    ![Updated Math Scores](Resources/Math Scores by Grade _updated.png)<br>
   
   * Scores by school spending
+  There is no significant change (when looking at the scores rounded to the nearest tenth and passing percentages as a whole number) in the scores by school spending and this is due to the size of the Thomas High School ninth graders. 
+  **Original Scores by School Spending**<br>
+   ![Original Scores by Spending](resources/Reading Scores by Grade.png)<br>
+  **Updated Scores by School Spending**<br>
+   ![Updated Scores by Spending](Resources/Math Scores by Grade _updated.png)<br>
   
   * Scores by school size
+  Similar to the scores by school spending, there is no significant change in the scores by school size when looking at the scores rounded to the nearest tenth and passing percentages as a whole number and this is due to the size of the Thomas High School ninth graders.
+  **Original Scores by School Size**<br>
+   ![original Scores by Size](resources/Reading Scores by Grade.png)<br>
+  **Updated Scores by School Size**<br>
+   ![Updated Scores by Size](Resources/Math Scores by Grade _updated.png)<br>
+  
   
   * Scores by school type
-  
+   Finally, there is also no significant change in the scores by school type when looking at the scores rounded to the nearest tenth and passing percentages as a whole number due to the size of the Thomas High School ninth graders .
+  **Original Scores by School Type**<br>
+   ![original Scores by Type](resources/Reading Scores by Grade.png)<br>
+  **Updated Scores by School Type**<br>
+   ![Updated Scores by Type](Resources/Math Scores by Grade _updated.png)<br>
 
 
 ## Summary
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+1. The overall passing rate of Thomas High School went from 90.9% to 90.6% when excluding the ninth grade scores. 
+2. The average scores per subject also saw changes in the tenth decimal point when comparing the original dataset to the updated dataset (excluding ninth grade scores). In summary, the average scores by subject slightly declined. 
+3. The most significant difference between the two analysis was at the grade level where it was visible that Thomas High School 9th grade scores were nullified (NaN). 
+4. Finally, across all the schools, when excluding the Thomas High School 9th graders the percent of passing students declined from 65.2% to 64.9%.
