@@ -14,8 +14,7 @@ The analysis takes out the Thomas High School 9th graders from the total scores 
 * How is the district summary affected? <br>
 There difference between the summaries is minimal. This is likely due to the number of student scores taken out of the total population of students (461 out of the almost 40,000 students in the dataset).  The metrics affected by the change are percent of students passing individual subjects (math and reading) and passing overall. <br>
 **Original District Summary**<br>
-
-![Original District Summary](Resources/District Summary _original.png)<br>
+![Original District Summary](/Resources/District Summary _original.png)<br>
 
 **Updated District Summary**<br>
 ![Updated District Summary](Resources/District Summary _updated.png)<br>
@@ -33,7 +32,7 @@ The differences are so minimal that in terms of performance relative to other sc
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?<br>
 The school summary was also not affected much. Thomas High School was still at the top 5 performing schools across the schools involved with minimal changes to its passing percent and average grades. <br>
 **Original School Summary**<br>
-![Original School Summary](Resources/Top Schools _original.png)<br>
+![Original School Summary](../Resources/Top Schools _original.png)<br>
 **Updated School Summary**<br>
 ![Updated School Summary](Resources/Top Schools _updated.png)<br>
 
@@ -63,7 +62,7 @@ The school summary was also not affected much. Thomas High School was still at t
   * Scores by school type<br>
    Finally, there is also no significant change in the scores by school type when looking at the scores rounded to the nearest tenth and passing percentages as a whole number due to the size of the Thomas High School ninth graders.<br>
   **Original Scores by School Type**<br>
-   ![original Scores by Type](Scores by Type og.png) <br>
+   ![original Scores by Type](Resources/Scores by Size new.png) <br>
   **Updated Scores by School Type**<br>
    ![Updated Scores by Type](Resources/Math Scores by Grade _updated.png)<br>
 
