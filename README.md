@@ -14,7 +14,7 @@ The analysis takes out the Thomas High School 9th graders from the total scores 
 * How is the district summary affected?
 There difference between the summaries is minimal. This is likely due to the number of student scores taken out of the total population of students (461 out of the almost 40,000 students in the dataset).  The metrics affected by the change are percent of students passing individual subjects (math and reading) and passing overall. <br>
 **Original District Summary**<br>
-![Original District Summary](Resources/District Summary _original.png)<br>
+![Original District Summary](Resources/District Summary _updated.png)<br>
 **Updated District Summary**<br>
 ![Updated District Summary](Resources/District Summary _updated.png)<br>
 
