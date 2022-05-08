@@ -14,11 +14,18 @@ The analysis takes out the Thomas High School 9th graders from the total scores 
 * How is the district summary affected?
 There difference between the summaries is minimal. This is likely due to the number of student scores taken out of the total population of students (461 out of the almost 40,000 students in the dataset).  The metrics affected by the change are percent of students passing individual subjects (math and reading) and passing overall. <br>
 **Original District Summary**<br>
-![Original District Summary](Resources/District Summary _updated.png)<br>
+![Original District Summary](Resources/District Summary _original.png)<br>
 **Updated District Summary**<br>
 ![Updated District Summary](Resources/District Summary _updated.png)<br>
 
 * How is the school summary affected?
+The school summary was also not affected much. Thomas High School was still at the top 5 performing schools across the schools involved with minimal changes to its passing percent and average grades. 
+**Original School Summary**<br>
+![Original School Summary](Resources/Top Schools _original.png)<br>
+**Updated School Summary**<br>
+![Updated School Summary](Resources/Top Schools _updated.png)<br>
+
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
 * Math and reading scores by grade
